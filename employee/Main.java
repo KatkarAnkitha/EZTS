@@ -25,7 +25,7 @@ public class Main {
     
     
     PartTimeEmployee pt=new  PartTimeEmployee();
-    System.out.print("Enter name :");
+    System.out.print("\nEnter name :");
     name=sc.next();
     System.out.print("Enter age:");
     age=sc.nextInt();
